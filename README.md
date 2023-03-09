@@ -6,4 +6,6 @@ Run in dosbox 16(bits)
 
 # Screenshot
 
+file:///home/jawad/Downloads/Assembly-project-main/Screenshot%20from%202021-01-18%2017-16-11.png
+
  
