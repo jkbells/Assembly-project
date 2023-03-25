@@ -8,7 +8,7 @@ Atari Breakout is a classic arcade game developed and published by Atari Inc. in
 
 The original game was played on a single player mode, but variations have been developed with multiple players. Atari Breakout is considered a classic game and has been re-released on multiple platforms, including as a Google Easter Egg where users can play the game on the search results page by typing "Atari Breakout" into the search bar.
 
-#Working Prototype
+# Working Prototype
 
  ![Screenshot from 2021-01-18 17-16-11](https://user-images.githubusercontent.com/73393333/227737194-0194cf4a-1bf2-47ad-9285-b786fae6837f.png)
 
